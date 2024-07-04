@@ -27,5 +27,6 @@
     "eslint-plugin-prettier": "^3.4.0",
     "eslint-plugin-react": "^7.25.1",
     "prettier": "^2.4.1"
-  }
+  },
+  "license": "MIT"
 }
