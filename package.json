@@ -1,5 +1,5 @@
 {
-  "name": "react-mqtt-hooks",
+  "name": "@tony9090/react-mqtt-hooks",
   "version": "1.0.0",
   "description": "A custom React Hooks library for MQTT",
   "main": "dist/index.js",

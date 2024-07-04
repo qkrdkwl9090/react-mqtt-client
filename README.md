@@ -12,7 +12,7 @@ A custom React Hooks library to easily integrate MQTT protocol into your React a
 ### Installation
 
 ```bash
-npm install react-mqtt-hooks
+npm install @tony9090/react-mqtt-hooks
 ```
 
 ### Importing Hooks
