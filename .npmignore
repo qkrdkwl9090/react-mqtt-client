@@ -1,15 +1,24 @@
 # Node modules
 node_modules/
 
-# Build directories
-dist/
+# Source files
+src/
+
+# Build scripts and configs
+*.config.js
+
+# TypeScript config
+tsconfig.json
+
+# Package management files
+*.lock
 
 # Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# VSCode settings
+# Editor settings
 .vscode/
 
 # Mac system files
@@ -17,3 +26,6 @@ yarn-error.log*
 
 # Environment variables
 .env
+
+# Documentation files
+*.md
