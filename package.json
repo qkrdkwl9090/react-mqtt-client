@@ -3,6 +3,12 @@
   "version": "1.0.1",
   "description": "A custom React Hooks library for MQTT",
   "main": "dist/index.js",
+  "keywords": [
+    "react",
+    "hook",
+    "hooks",
+    "mqtt"
+  ],
   "module": "dist/index.esm.js",
   "types": "dist/types/index.d.ts",
   "publishConfig": {
