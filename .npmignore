@@ -6,6 +6,8 @@ src/
 
 # Build scripts and configs
 *.config.js
+.prettierrc
+.prettierignore
 
 # TypeScript config
 tsconfig.json
